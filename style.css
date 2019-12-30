@@ -1,0 +1,31 @@
+
+body {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 14px;
+}
+
+header {
+   background-color: black ;
+   width: 100vw;
+}
+
+
+#logo {
+   height: 100px;
+   width: 200px;
+   background-color: transparent;
+   background-image: url("https://www.spacex.com/sites/spacex/files/spacex_logo_white.png");
+   background-repeat: no-repeat;
+   background-size: contain;
+   background-position: center;
+  
+
+}
+
+
+
+
+footer {
+   background-color: black ;
+   width: 100vw;
+}
